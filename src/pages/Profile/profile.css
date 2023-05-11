@@ -1,0 +1,28 @@
+.profile-main {
+  height: 100%;
+  padding: 25px;
+}
+.profile-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Notepad_icon.svg/768px-Notepad_icon.svg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.profile-form-container {
+  display: flex;
+  align-items: first baseline;
+}

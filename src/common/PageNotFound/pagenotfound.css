@@ -1,0 +1,12 @@
+.page-not-found {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.page-not-found img {
+  width: 500px;
+  height: 500px;
+  max-width: 80%;
+  max-height: 50%;
+}

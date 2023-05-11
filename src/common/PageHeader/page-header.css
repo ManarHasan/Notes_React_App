@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-align: center;
+}
+
+.header-title.MuiTypography-root {
+  font-size: 24px;
+}
+
+.header-subtitle.MuiTypography-root {
+  font-size: 16px;
+}

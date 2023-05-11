@@ -1,0 +1,11 @@
+.app-header-container {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  background-color: rgb(24, 29, 45);
+}
+
+h1.app-header {
+  color: white;
+  font-size: 28px;
+}

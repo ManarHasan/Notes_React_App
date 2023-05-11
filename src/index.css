@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url("https://img.freepik.com/free-photo/ripped-paper-border-blue-handmade-colorful-background_53876-128184.jpg?w=1380&t=st=1683749099~exp=1683749699~hmac=4aeb64fb16db04d75ea5754650fd5fb5f44b0ab10fc4f259bcdf87931625345a");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #008ac3;
+}
+
+a {
+  text-decoration: none;
+  color: initial;
+}
